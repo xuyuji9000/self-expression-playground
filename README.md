@@ -2,7 +2,7 @@
 
 # Keywords
 
-- sel-expression
+- self-expression
 
 - public speaking 
 
